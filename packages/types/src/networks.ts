@@ -1,4 +1,5 @@
 export enum NetworkNames {
+  OTC = "OTC",
   Ethereum = "ETH",
   Okc = "OKT",
   Binance = "BNB",
@@ -15,7 +16,7 @@ export enum NetworkNames {
   Karura = "KAR",
   KaruraEVM = "evmKAR",
   Kusama = "KSM",
-  Polkadot = "DOT",
+  Polkadot = "DOT", 
   Westend = "WND",
   Bitcoin = "BTC",
   BitcoinTest = "BTCTest",
